@@ -1,0 +1,24 @@
+header {
+    height: 15%;
+}
+main {
+    background-color: antiquewhite;
+    height: 75%;
+}
+
+footer {
+    height: 10%;
+}
+
+form {
+    background-color: antiquewhite;
+}
+
+#div1 {
+    background-color: lightpink;
+}
+
+.fondo_header {
+    background-color: lightpink;
+}
+
